@@ -4,4 +4,4 @@ Entrega Proyecto Final
 # LINK DE LA PÁGINA: https://francodiazp01.github.io/
 
 
-#Comentario: A la hora de realizar el proyecto no pude crear carpetas para ordenar los archivos, ya que cuando las creaba se me desconfiguraba la página. Es el único 
+#Comentario: Espero que la entrega sea amena y se pueda entender el código. Estoy abierto a cualquier mejora de la página. Saludos!
